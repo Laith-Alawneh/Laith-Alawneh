@@ -18,10 +18,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git" />
-  <img src="https://skillicons.dev/icons?i=html,css" />
-  <img src="https://skillicons.dev/icons?i=windows,ubuntu" />
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=linux,kali,python,bash,git,html,css,windows,ubuntu,python" />
   <br><br>
   <img src="https://img.shields.io/badge/Nmap-004d40?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Burp_Suite-ff6f00?style=for-the-badge&logo=burpsuite&logoColor=white"/>
